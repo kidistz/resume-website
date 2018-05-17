@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link  type="text/css" rel="stylesheet" href="./boot.css">
+
+<title> Kidist Zegeye</title>
+</head>
+
+
+	<h2>PORTFOLIO</h2>
+     <figure>
+     <img src="./hm.jpg">
+     <img src="./kik.png">
+     <img src="./kin.png"><br>
+     <img src="./hm2.png">
+     <img src="./mit.png">
+     <img src="./blynk.png">
+    </figure>
+	<h3>ABOUT ME</h3>
+
+	<P>Here are the list of things I think I am pretty good at </P>
+	<h4>contact Information	</h4>
+	<p>You can reach me at:</p>
+
+<p>kidistmulusew@gmail.com</p>
+<p>4164023094</p>
+</body>
+
+</html>
