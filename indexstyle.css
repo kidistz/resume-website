@@ -1,0 +1,121 @@
+
+
+h1{  margin-left: auto;
+    margin-right: auto;
+	font-family:Raleway;
+	color:green;
+	font-size: 5 rem;
+	text-align: center;
+	 text-transform: uppercase;
+}
+html {
+  box-sizing: border-box;
+      padding: 20px 40px 20px 40px;
+}
+ img.picture{  
+	width: 150px;
+  height: 150px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+ border-radius: 50%;
+ padding: 10px;
+}
+.port{
+
+font-size: 13px;
+
+}
+.centertextp{
+	text-align: left;
+	margin-left:30px;
+}
+.centertext{
+	text-align: center;
+	
+}
+.centertext1{
+	text-align: center;
+	padding:10px;
+	font-size: 13px;
+}
+p{font-family:Montserrat; }
+.container{
+	display: block;
+	padding bottom: 10px;
+	padding top: 10px;
+	padding-left: 40px;
+	padding-right: 20px;
+	text-align: center; 
+	margin-top: 1px;
+	margin-left: auto;
+    margin-right: auto;
+}
+.container-fluid{height:500px;}
+h2{
+	font-family:Raleway;
+	text-transform: uppercase;
+}	
+h3{
+	font-family:Raleway;
+}
+h4{text-transform: uppercase;
+font-family:Raleway;}
+.col-sm-8
+ {    
+  display: inline-block;
+
+   
+}
+ul li img {
+  width: 40px;
+  height: 40px;
+}
+figure img {
+width: 200px;
+  height: 200px;
+  padding: 45px 30px;
+}
+ img {
+   width: 100px;
+  height: 100px;
+  
+  
+ padding: 10px;
+  
+}
+.favorite{margin-left: 30px}
+.interest{display: inline-block;}
+
+    
+   .contact{display: inline-flex;}
+   .list{display:flex;}
+    
+    
+
+    .gallery-item {
+margin: 10px 5px 40px 5px;;
+padding: 5px 5px 5px 5px;
+height: 200px;
+width: 200px;
+border-radius: 7%;
+
+box-sizing: border-box;
+}
+.border {
+height: 150px;
+width: 150px;
+border: 1px solid transparent;
+position: absolute;
+top: 10%;
+left: 10%;
+box-sizing: border-box;
+}
+
+.gallery-item:hover {
+opacity: 0.6;
+}
+.gallery-item:hover .border {
+border: 1px solid black;
+}
+
